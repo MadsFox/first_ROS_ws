@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/arlab/first_ROS_ws/devel/setup.sh
